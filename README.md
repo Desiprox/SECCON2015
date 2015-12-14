@@ -1,8 +1,7 @@
 # Writeup SECCON CTF 2015
 
-Uczestniczyliśmy (cr019283, c7f.m0d3, msm, Rev, other019, nazywam i Shalom) w SECCON CTF 2015, i znowu spróbujemy opisać zadania z którymi walczyliśmy (a przynajmniej te, które pokonaliśmy).
 
-![](results.png)
+![](Team logo.png)
 
 ### Spis treści:
 * [Start SECCON CTF (Exercises)	50](start_seccon_50)
