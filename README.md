@@ -1,7 +1,7 @@
 # Writeup SECCON CTF 2015
 
 
-![](Team logo.png)
+![](Team%20Logo.png)
 
 ### Spis treści:
 * [Start SECCON CTF (Exercises)	50](start_seccon_50)
