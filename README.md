@@ -1,5 +1,6 @@
 # Writeup SECCON CTF 2015
 
+Ranking page : http://ranking.quals.seccon.jp/
 
 ![](Team%20Logo.png)
 
